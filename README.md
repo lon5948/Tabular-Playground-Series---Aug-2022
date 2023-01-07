@@ -2,7 +2,10 @@
 use the data to predict individual product failures of new codes with their individual lab test results
 
 ## Requirements
-    pip install -r requirements.txt
+    numpy==1.21.5
+    pandas==1.3.5
+    sklearn==1.0.2
+    joblib==1.2.0
 
 ## Training
     run train.ipynb
